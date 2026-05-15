@@ -22,13 +22,7 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 - 🔵 Exploring **Docker** to containerize my MERN projects.
 
 ---
-### 📊 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zawhlaingtoe-glitch&show_icons=true&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingtoe-glitch&layout=compact&theme=tokyonight" alt="Top Langs Card" />
-</p>
----
 ### 📂 Featured Projects
 
 #### 🛒 [E-Commerce Platform]
