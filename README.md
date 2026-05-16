@@ -31,7 +31,7 @@ I turn coffee into scalable web applications. Currently focused on mastering the
   <img src="https://img.shields.io/badge/DeepSeek-1560BD?style=for-the-badge&logo=deepin" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/CodeX-30343F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Antrigivity-6B21A8?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Antrigivity-6B21A8?style=for-the-badge" />
 </p>
 
 ---
@@ -52,3 +52,18 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 #### 💬 [Real-time Chat App]
 *Instant messaging using WebSockets for seamless communication.*
 `Socket.io` · `Express` · `Tailwind CSS`
+
+---
+
+### 🤝 Git Participations
+
+- Actively contributing to open source and personal projects.
+- [View my GitHub Profile](https://github.com/zawhlaingtoe-glitch)
+
+---
+
+### 📬 Contact Me
+
+- Email: [zawhlaingtoe249@gmail.com](mailto:zawhlaingtoe249@gmail.com)
+- Facebook: [Zaw Hlaing Toe](https://www.facebook.com/share/1CQXi5dnDH/)
+- Instagram: [@zawhlaingtoe5](https://www.instagram.com/zawhlaingtoe5?igsh=NzFzazZ2ZjUwejZo)
