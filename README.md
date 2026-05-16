@@ -58,13 +58,6 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 ### 📈 Stats
 
 <p align="center">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zawhlaingtoe-glitch&theme=tokyonight&margin-w=10&margin-h=10" alt="profile trophy"/>
-
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/zawhlaingtoe-glitch?template=classic&isocalendar=1&languages=1&stars=1&lines=1&habits=1&topics=1&activity=1&theme=tokyonight" alt="metrics" />
-
-  <!-- Simple Badges -->
   <img src="https://img.shields.io/github/followers/zawhlaingtoe-glitch?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/repos/zawhlaingtoe-glitch?label=Public%20Repos&style=for-the-badge" />
 </p>
