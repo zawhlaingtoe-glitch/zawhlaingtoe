@@ -58,8 +58,7 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/zawhlaingtoe-glitch?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/zawhlaingtoe-glitch?label=Public%20Repos&style=for-the-badge" />
+  <img src="https://ghchart.rshah.org/zawhlaingtoe-glitch" alt="GitHub Contribution Chart" />
 </p>
 
 ---
