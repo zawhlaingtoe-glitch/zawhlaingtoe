@@ -57,15 +57,20 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 
 ### 📈 Stats
 
-- Actively contributing to open source and personal projects.
+<p align="center">
+  <!-- GitHub Readme Stats Card -->
+  <a href="https://github.com/zawhlaingtoe-glitch">
+    <img src="https://github-readme-stats.vercel.app/api?username=zawhlaingtoe-glitch&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  </a>
+  <!-- Streak Stats -->
+  <a href="https://github.com/zawhlaingtoe-glitch">
+    <img src="https://streak-stats.demolab.com?user=zawhlaingtoe-glitch&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/zawhlaingtoe-glitch">
-    <img src="https://github-readme-stats.vercel.app/api?username=zawhlaingtoe-glitch&show_icons=true&theme=tokyonight" alt="Zaw Hlaing Toe's GitHub Stats" height="150"/>
-  </a>
-  <a href="https://github.com/zawhlaingtoe-glitch">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingtoe-glitch&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  </a>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zawhlaingtoe-glitch&theme=tokyonight" alt="activity graph" />
 </p>
 
 ---
