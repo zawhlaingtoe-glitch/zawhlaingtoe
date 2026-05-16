@@ -58,19 +58,15 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 ### 📈 Stats
 
 <p align="center">
-  <!-- GitHub Readme Stats Card -->
-  <a href="https://github.com/zawhlaingtoe-glitch">
-    <img src="https://github-readme-stats.vercel.app/api?username=zawhlaingtoe-glitch&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  </a>
-  <!-- Streak Stats -->
-  <a href="https://github.com/zawhlaingtoe-glitch">
-    <img src="https://streak-stats.demolab.com?user=zawhlaingtoe-glitch&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150"/>
-  </a>
-</p>
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=zawhlaingtoe-glitch&theme=tokyonight&margin-w=10&margin-h=10" alt="profile trophy"/>
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zawhlaingtoe-glitch&theme=tokyonight" alt="activity graph" />
+  <!-- GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/zawhlaingtoe-glitch?template=classic&isocalendar=1&languages=1&stars=1&lines=1&habits=1&topics=1&activity=1&theme=tokyonight" alt="metrics" />
+
+  <!-- Simple Badges -->
+  <img src="https://img.shields.io/github/followers/zawhlaingtoe-glitch?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/zawhlaingtoe-glitch?label=Public%20Repos&style=for-the-badge" />
 </p>
 
 ---
