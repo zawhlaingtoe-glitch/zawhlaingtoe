@@ -55,15 +55,31 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 
 ---
 
-### 🤝 Git Participations
+### 📈 Stats
 
 - Actively contributing to open source and personal projects.
-- [View my GitHub Profile](https://github.com/zawhlaingtoe-glitch)
+
+<p align="center">
+  <a href="https://github.com/zawhlaingtoe-glitch">
+    <img src="https://github-readme-stats.vercel.app/api?username=zawhlaingtoe-glitch&show_icons=true&theme=tokyonight" alt="Zaw Hlaing Toe's GitHub Stats" height="150"/>
+  </a>
+  <a href="https://github.com/zawhlaingtoe-glitch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingtoe-glitch&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  </a>
+</p>
 
 ---
 
 ### 📬 Contact Me
 
-- Email: [zawhlaingtoe249@gmail.com](mailto:zawhlaingtoe249@gmail.com)
-- Facebook: [Zaw Hlaing Toe](https://www.facebook.com/share/1CQXi5dnDH/)
-- Instagram: [@zawhlaingtoe5](https://www.instagram.com/zawhlaingtoe5?igsh=NzFzazZ2ZjUwejZo)
+<p>
+  <a href="mailto:zawhlaingtoe249@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/share/1CQXi5dnDH/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/zawhlaingtoe5?igsh=NzFzazZ2ZjUwejZo" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
