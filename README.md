@@ -31,7 +31,7 @@ I turn coffee into scalable web applications. Currently focused on mastering the
   <img src="https://img.shields.io/badge/DeepSeek-1560BD?style=for-the-badge&logo=deepin" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/CodeX-30343F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Antrigivity-6B21A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antrigivity-6B21A8?style=for-the-badge" /> 
 </p>
 
 ---
