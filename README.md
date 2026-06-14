@@ -75,4 +75,7 @@ I turn coffee into scalable web applications. Currently focused on mastering the
   <a href="https://www.instagram.com/zawhlaingtoe5?igsh=NzFzazZ2ZjUwejZo" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://linkedin.com/in/zaw-hlaing-toee-a808a4416" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
