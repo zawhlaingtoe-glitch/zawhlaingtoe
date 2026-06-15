@@ -58,6 +58,10 @@ I turn coffee into scalable web applications. Currently focused on mastering the
 ### 📈 Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zawhlaingtoe-glitch&theme=dark" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/zawhlaingtoe-glitch" alt="GitHub Contribution Chart" />
 </p>
 
